@@ -1,0 +1,3 @@
+/cygdrive/d/Code/Project-C/vix_disklib_sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Code/Project-C/vix_disklib_sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Code/Project-C/vix_disklib_sample/cmake-build-debug/CMakeFiles/vix_disklib_sample.dir

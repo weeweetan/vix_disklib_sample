@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/vix_disklib_sample.dir/vixDiskLibSample.cpp.o  -o vix_disklib_sample.exe -Wl,--out-implib,libvix_disklib_sample.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -L/cygdrive/d/Code/Project-C/vmware-vix-disklib-distrib/lib64 -llibvixDiskLib.so -llibvixDiskLib.so 

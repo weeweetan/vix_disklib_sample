@@ -1,0 +1,4 @@
+C:\Users\11135\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Code/Project-C/vix_disklib_sample
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Code/Project-C/vix_disklib_sample/cmake-build-debug
