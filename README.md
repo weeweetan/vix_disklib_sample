@@ -1,0 +1,2 @@
+# vix_disklib_sample
+在clion上配置完成的vsphere vddk开发环境备份
